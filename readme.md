@@ -1,6 +1,6 @@
 # 👋 Hello! I'm João Pedro.
 
-<div style="width: 200px;">
+<div style="width: 300px;">
 <a href="https://github.com/torrescf/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torrescf&langs_count=8" alt="Top Langs" />
 </a>
