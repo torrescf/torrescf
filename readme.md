@@ -1,6 +1,6 @@
 # 👋 Hello! I'm João Pedro.
 
-<img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif?cid=790b7611ats33wiic2br68i56uorq2c3n6kj31swgkii1gkm&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="500">
 <br><br>
 
 <div>
