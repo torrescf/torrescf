@@ -1,5 +1,10 @@
 name: Generate Datas
 
+permissions:
+  pull-requests: write
+  issues: write
+  repository-projects: write
+
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
