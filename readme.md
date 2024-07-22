@@ -1,11 +1,9 @@
 # 👋 Hello! I'm João Pedro.
 
-![Snake animation](https://github.com/torrescf/torrescf/blob/output/github-contribution-grid-snake.svg)
-
-<div>
-<a href="https://github.com/torrescf">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?torrescf&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?torrescf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div style="width: 200px;">
+<a href="https://github.com/torrescf/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torrescf&langs_count=8" alt="Top Langs" />
+</a>
 </div>
 
     ## Contact me
