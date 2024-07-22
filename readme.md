@@ -1,6 +1,7 @@
 # 👋 Hello! I'm João Pedro.
 
-<div class="tenor-gif-embed" data-postid="16693922390372204291" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-trabalhando-gif-16693922390372204291">Cat Trabalhando GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+<br><br>
 
 <div>
 <a href="https://github.com/torrescf">
