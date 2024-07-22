@@ -1,7 +1,4 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is João Pedro and my nickname is "Chris"!
-
-## I'm a Computer Science student at UFLA.
+# 👋 Hello! I'm João Pedro.
 
 ![Snake animation](https://github.com/torrescf/torrescf/blob/output/github-contribution-grid-snake.svg)
 
