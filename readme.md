@@ -1,6 +1,6 @@
 # 👋 Hello! I'm João Pedro.
 
-<img src="[https://tenor.com/bmGFr.gif](https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif?cid=790b7611ats33wiic2br68i56uorq2c3n6kj31swgkii1gkm&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="500">
+<img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif?cid=790b7611ats33wiic2br68i56uorq2c3n6kj31swgkii1gkm&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="500">
 <br><br>
 
 <div>
