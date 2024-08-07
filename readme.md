@@ -1,8 +1,5 @@
 # 👋 Hello! I'm João Pedro.
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F726486983643237793%2F&psig=AOvVaw17PeiQ9ZtSttaA99uI1cv9&ust=1722217307125000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKj_0sjNyIcDFQAAAAAdAAAAABAJ" width="400">
-<br><br>
-
 <div>
 <a href="https://github.com/torrescf">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torrescf&layout=compact&langs_count=7&theme=dracula"/>
