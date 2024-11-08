@@ -1,4 +1,4 @@
-# 👋 Hello! I'm João Pedro.
+# 👋 Hello! I'm João Pedro Oliveira.
 
 <div>
 <a href="https://github.com/torrescf">
