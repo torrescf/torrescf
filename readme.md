@@ -2,7 +2,7 @@
 
 <div>
 <a href="https://github.com/torrescf">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torrescf&layout=compact&langs_count=7&theme=black"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torrescf&layout=compact&langs_count=7&theme=dracula"/>
 </div>
    
 <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=torrescf&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
