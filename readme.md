@@ -8,6 +8,18 @@
 <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=torrescf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+## Technologies I use daily
+
+<div style="display: inline_block">
+  <h3>C++, Python</h3>
+</div>
+
+## I'm currently researching
+
+<div style="display: inline_block">
+  <h3>I'm currently researching React Native for mobile development and Node.js for backend development. Additionally, I am working on an Arduino project to build a weather station for use in crop fields.</h3>
+</div>
+
 
    ## Contact me
 
