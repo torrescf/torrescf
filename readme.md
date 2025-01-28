@@ -20,7 +20,7 @@ I’ve been fascinated by technology for as long as I can remember. I'm a passio
 ## Connect with Me
 
  <a href="https://www.linkedin.com/in/joaopedrooliveiradejesusmachado/">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+    <img alt="LinkedIn" title="LinkedIn" src="https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"></a>
 
 <!--
 **torrescf/torrescf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
