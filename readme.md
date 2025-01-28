@@ -19,7 +19,7 @@ I’ve been fascinated by technology for as long as I can remember. I'm a passio
 
 ## Connect with Me
 
-- <a href="https://www.linkedin.com/in/peterthehan](https://www.linkedin.com/in/joaopedrooliveiradejesusmachado/">
+ <a href="https://www.linkedin.com/in/joaopedrooliveiradejesusmachado/">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
 
 <!--
