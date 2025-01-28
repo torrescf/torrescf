@@ -2,7 +2,7 @@
 
  # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-I'm a passionate developer with a keen interest in software development and open-source contributions. I enjoy learning new technologies and applying them to solve real-world problems.
+I’ve been fascinated by technology for as long as I can remember. I'm a passionate developer with a keen interest in software development. I enjoy learning new technologies and applying them to solve real-world problems.
 
 ## GitHub Stats
 
