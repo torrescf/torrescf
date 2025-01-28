@@ -1,11 +1,12 @@
-# Hi there, I'm torrescf 👋
+# Hi there, I'm João Oliveira <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br><br>
 
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=torrescf&color=blue)
 
-## About Me
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
 I'm a passionate developer with a keen interest in software development and open-source contributions. I enjoy learning new technologies and applying them to solve real-world problems.
 
@@ -13,7 +14,7 @@ I'm a passionate developer with a keen interest in software development and open
 
 ![torrescf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=torrescf&show_icons=true&theme=radical)
 
-## Top Languages
+## Top Languages 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=torrescf&layout=compact&theme=radical)
 
@@ -24,7 +25,8 @@ I'm a passionate developer with a keen interest in software development and open
 
 ## Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/joaopedrooliveiradejesusmachado/)
+- <a href="https://www.linkedin.com/in/peterthehan">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
 
 <!--
 **torrescf/torrescf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
