@@ -10,7 +10,7 @@ I’ve been fascinated by technology for as long as I can remember. I'm a passio
 
 ## Top Languages 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=torrescf&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=torrescf&layout=compact&theme=dracula)
 
 ## My Skills
 
