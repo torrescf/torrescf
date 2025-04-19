@@ -14,8 +14,10 @@ I’ve been fascinated by technology for as long as I can remember. I'm a passio
 
 ## My Skills
 
-- **Languages:** C++, Python
-- **Tools & Technologies:** IDE/Editor: Visual Studio; Version Control: Git, GitHub Desktop
+- **Languages:** TypeScript, JavaScript, C++
+- **Backend & Databases:** Node.js, PostgreSQL
+- **Tools & Technologies:** Docker, Insomnia, Git, GitHub, GitHub Desktop
+- **IDE/Editors:** Visual Studio, Visual Studio Code
 
 ## Connect with Me
 
