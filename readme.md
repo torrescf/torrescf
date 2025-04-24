@@ -6,7 +6,7 @@ I’ve been fascinated by technology for as long as I can remember. I'm a passio
 
 ## GitHub Stats
 
-![torrescf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=torrescf&show_icons=true&theme=radical)
+![torrescf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=torrescf&show_icons=true&theme=dracula)
 
 ## Top Languages 
 
@@ -15,9 +15,9 @@ I’ve been fascinated by technology for as long as I can remember. I'm a passio
 ## My Skills
 
 - **Languages:** TypeScript, JavaScript, C++
-- **Backend & Databases:** Node.js, PostgreSQL
-- **Tools & Technologies:** Docker, Insomnia, Git, GitHub, GitHub Desktop
-- **IDE/Editors:** Visual Studio, Visual Studio Code
+- **Backend & Databases:** Node.js, PostgreSQL, TypeORM, Dockerized DBs
+- **Tools & Technologies:** Docker, Insomnia, Git, GitHub Desktop
+- **IDE/Editors:** Visual Studio
 
 ## Connect with Me
 
