@@ -2,18 +2,21 @@
 
  # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-I’ve been fascinated by technology for as long as I can remember. I'm a passionate developer with a keen interest in software development. I enjoy learning new technologies and applying them to solve real-world problems.
+ I am a software developer with a lifelong passion for technology and a strong focus on back-end development. Over the years, I’ve consistently pursued opportunities to deepen my skills and apply them to solve real-world problems. I have hands-on experience with agile methodologies like Scrum and Kanban, and I’m always eager to take on new challenges that foster both personal and professional growth. My goal is to contribute meaningfully to every project I’m part of, continuously learning and delivering high-impact solutions.
+
+ 
+  ## <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="35" />  Stats and Top Languages 
 
 <!-- GitHub Stats (adaptado para HTML) -->
-<img src="https://github-readme-stats.vercel.app/api?username=torrescf&show_icons=true&theme=midnight-purple&hide_border=true" width="36%" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=torrescf&show_icons=true&theme=midnight-purple&hide_border=true" width="40%" align="left">
 
 <!-- GitHub Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torrescf&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="28%"> <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torrescf&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="30%"> <br>
 
 
 
 
-## My Skills
+## <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="40"> My Skills
 
 - **Languages:** TypeScript, JavaScript, C++
 - **Backend & Databases:** Node.js, PostgreSQL, TypeORM, Dockerized DBs 
