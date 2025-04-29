@@ -5,13 +5,10 @@
 I’ve been fascinated by technology for as long as I can remember. I'm a passionate developer with a keen interest in software development. I enjoy learning new technologies and applying them to solve real-world problems.
 
 <!-- GitHub Stats (adaptado para HTML) -->
-<img src="https://github-readme-stats.vercel.app/api?username=torrescf&show_icons=true&theme=midnight-purple&hide_border=true" width="26%" align="left">
-
-<!-- GitHub Streak Stats -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=torrescf&theme=midnight-purple&hide_border=true" width="28%" height="50%" >
+<img src="https://github-readme-stats.vercel.app/api?username=torrescf&show_icons=true&theme=midnight-purple&hide_border=true" width="36%" align="left">
 
 <!-- GitHub Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torrescf&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="55%" height="40%" align="center"> <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torrescf&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="28%"> <br>
 
 
 
