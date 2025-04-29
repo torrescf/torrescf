@@ -4,18 +4,22 @@
 
 I’ve been fascinated by technology for as long as I can remember. I'm a passionate developer with a keen interest in software development. I enjoy learning new technologies and applying them to solve real-world problems.
 
-## GitHub Stats
+<!-- GitHub Stats (adaptado para HTML) -->
+<img src="https://github-readme-stats.vercel.app/api?username=torrescf&show_icons=true&theme=midnight-purple&hide_border=true" width="26%" align="left">
 
-![torrescf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=torrescf&show_icons=true&theme=dracula)
+<!-- GitHub Streak Stats -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=torrescf&theme=midnight-purple&hide_border=true" width="28%" height="50%" >
 
-## Top Languages 
+<!-- GitHub Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torrescf&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="55%" height="40%" align="center"> <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=torrescf&layout=compact&theme=dracula)
+
+
 
 ## My Skills
 
 - **Languages:** TypeScript, JavaScript, C++
-- **Backend & Databases:** Node.js, PostgreSQL, TypeORM, Dockerized DBs
+- **Backend & Databases:** Node.js, PostgreSQL, TypeORM, Dockerized DBs 
 - **Tools & Technologies:** Docker, Insomnia, Git, GitHub Desktop
 - **IDE/Editors:** Visual Studio
 
