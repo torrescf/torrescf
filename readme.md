@@ -2,10 +2,10 @@
 
  # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
- I am a software developer with a lifelong passion for technology and a strong focus on back-end development. Over the years, I’ve consistently pursued opportunities to deepen my skills and apply them to solve real-world problems. I have hands-on experience with agile methodologies like Scrum and Kanban, and I’m always eager to take on new challenges that foster both personal and professional growth. My goal is to contribute meaningfully to every project I’m part of, continuously learning and delivering high-impact solutions.
+ I am a software developer with a lifelong passion for technology and a strong focus on fullstack development. Over the years, I’ve consistently pursued opportunities to deepen my skills and apply them to solve real-world problems. I have hands-on experience with agile methodologies like Scrum and Kanban, and I’m always eager to take on new challenges that foster both personal and professional growth. My goal is to contribute meaningfully to every project I’m part of, continuously learning and delivering high-impact solutions.
 
-🔭 Currently working on: Microservices architecture with Node.js  
-🌱 Currently learning: Advanced PostgreSQL optimization  
+🔭 Currently working on: Fullstack system architecture using Node.js, React, and Docker (Projeto Zeus) 
+🌱 Currently learning: Advanced PostgreSQL optimization and scalable backend patterns with microservices  
 💬 Ask me about: Database design or API development  
 ⚡ Fun fact: I automate my coffee brewing with Raspberry Pi  
  
@@ -23,9 +23,10 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="40"> My Skills
 
 - **Languages:** TypeScript, JavaScript, C++
-- **Backend & Databases:** Node.js, PostgreSQL, MySQL, TypeORM, Dockerized DBs 
-- **Tools & Technologies:** Docker, Insomnia, Postman, Git, GitHub Desktop
-- **IDE/Editors:** Visual Studio
+- **Backend & Databases:** Node.js, PostgreSQL, MySQL, TypeORM, Dockerized DBs
+- **Frontend & UI**: React, Vite, Tailwind CSS, Radix UI, React Hook Form
+- **Tools & Technologies:** Docker, Insomnia, Postman, Git, GitHub Desktop, JWT
+- **IDE/Editors:** Visual Studio, Visual Studio Code
 
 ## Connect with Me
 
