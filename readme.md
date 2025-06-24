@@ -4,8 +4,8 @@
 
  I am a software developer with a lifelong passion for technology and a strong focus on fullstack development. Over the years, I’ve consistently pursued opportunities to deepen my skills and apply them to solve real-world problems. I have hands-on experience with agile methodologies like Scrum and Kanban, and I’m always eager to take on new challenges that foster both personal and professional growth. My goal is to contribute meaningfully to every project I’m part of, continuously learning and delivering high-impact solutions.
 
-🔭 Currently working on: Fullstack system architecture using Node.js, React, and Docker (Projeto Zeus) 
-🌱 Currently learning: Advanced PostgreSQL optimization and scalable backend patterns with microservices  
+🔭 Currently working on: Fullstack system architecture
+🌱 Currently learning: Advanced PostgreSQL optimization 
 💬 Ask me about: Database design or API development  
 ⚡ Fun fact: I automate my coffee brewing with Raspberry Pi  
  
