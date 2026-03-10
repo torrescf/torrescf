@@ -12,7 +12,7 @@
   ## <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="35" />  Stats and Top Languages 
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=torrescf&show_icons=true&theme=midnight-purple&hide_border=true" width="40%" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api?username=torrescf&show_icons=true&theme=midnight-purple&hide_border=true">
 
 <!-- GitHub Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torrescf&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="30%"> <br>
