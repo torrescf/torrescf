@@ -2,7 +2,7 @@
 
 <div align="right">
   <a href="#portugues">
-    <img src="https://img.shields.io/badge/🇺🇸%20English-24292F?style=for-the-badge" alt="Mudar para Portugues"/>
+    <img src="https://img.shields.io/badge/🇧🇷%20Português-24292F?style=for-the-badge" alt="Mudar para Portugues"/>
   </a>
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align="right">
   <a href="#english">
-    <img src="https://img.shields.io/badge/🇧🇷%20Português-24292F?style=for-the-badge" alt="Switch to English"/>
+    <img src="https://img.shields.io/badge/🇺🇸%20English-24292F?style=for-the-badge" alt="Switch to English"/>
   </a>
 </div>
 
