@@ -1,8 +1,8 @@
-<a name="top"></a>
+<a name="english"></a>
 
 <div align="right">
-  <a href="#english">
-    <img src="https://img.shields.io/badge/🇺🇸%20English-24292F?style=for-the-badge" alt="Switch to English"/>
+  <a href="#portugues">
+    <img src="https://img.shields.io/badge/🇺🇸%20English-24292F?style=for-the-badge" alt="Mudar para Portugues"/>
   </a>
 </div>
 
@@ -52,11 +52,11 @@
 - **Tools & Technologies:** Docker, Insomnia, Postman, Git, GitHub Desktop, JWT
 - **IDE/Editors:** Visual Studio, Visual Studio Code
 
-  <a name="top"></a>
+  <a name="portugues"></a>
 
 <div align="right">
-  <a href="#Português">
-    <img src="https://img.shields.io/badge/🇧🇷%20Português-24292F?style=for-the-badge" alt="Voltar para Português"/>
+  <a href="#english">
+    <img src="https://img.shields.io/badge/🇧🇷%20Português-24292F?style=for-the-badge" alt="Switch to English"/>
   </a>
 </div>
 
