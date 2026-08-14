@@ -31,7 +31,7 @@
 
 </div>
 
- I am a Computer Science undergraduate at the Federal University of Lavras (UFLA), with hands-on experience developing management systems at Comp Júnior. I have a strong interest in full stack development and practical experience with technologies such as Node.js, TypeScript, PostgreSQL, and Docker. I’m constantly looking to improve my skills, learn from real-world challenges, and contribute to building reliable and meaningful software.
+ I am a Computer Science undergraduate at the Federal University of Lavras (UFLA), with hands-on experience developing management systems. I have a strong interest in full stack development and practical experience with technologies such as Node.js, TypeScript, PostgreSQL, and Docker. I’m constantly looking to improve my skills, learn from real-world challenges, and contribute to building reliable and meaningful software.
  
   ## <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="35" />  Top Languages 
 
@@ -85,7 +85,7 @@
 
 </div>
 
-Sou graduando em Ciência da Computação na Universidade Federal de Lavras (UFLA), com experiência prática no desenvolvimento de sistemas de gestão na Comp Júnior. Tenho interesse em desenvolvimento Full Stack e experiência com tecnologias como Node.js, TypeScript, PostgreSQL e Docker. Busco constantemente aprimorar minhas habilidades, aprender com novos desafios e contribuir para o desenvolvimento de soluções eficientes e relevantes.
+Sou graduando em Ciência da Computação na Universidade Federal de Lavras (UFLA), com experiência prática no desenvolvimento de sistemas de gestão. Tenho interesse em desenvolvimento Full Stack e experiência com tecnologias como Node.js, TypeScript, PostgreSQL e Docker. Busco constantemente aprimorar minhas habilidades, aprender com novos desafios e contribuir para o desenvolvimento de soluções eficientes e relevantes.
  
   ## <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="35" />  Linguagens utilizadas 
 
